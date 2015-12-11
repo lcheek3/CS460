@@ -1,0 +1,19 @@
+﻿Build started 12/10/2015 2:03:53 PM.
+     1>Project "c:\Users\Lucas\Documents\Visual Studio 2015\Projects\KNN_Test\KNN_Test\KNN_Test.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Ic:\opencv\build\x64\vc12\..\..\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt KNN_tester.cpp
+         KNN_tester.cpp
+     1>KNN_tester.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Users\Lucas\Documents\Visual Studio 2015\Projects\KNN_Test\x64\Release\KNN_Test.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:c:\opencv\build\x64\vc12\lib opencv_ts300.lib opencv_world300.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\Users\Lucas\Documents\Visual Studio 2015\Projects\KNN_Test\x64\Release\KNN_Test.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\Users\Lucas\Documents\Visual Studio 2015\Projects\KNN_Test\x64\Release\KNN_Test.lib" /MACHINE:X64 x64\Release\KNN_tester.obj
+         Generating code
+         1 of 459 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         KNN_Test.vcxproj -> c:\Users\Lucas\Documents\Visual Studio 2015\Projects\KNN_Test\x64\Release\KNN_Test.exe
+     1>Done Building Project "c:\Users\Lucas\Documents\Visual Studio 2015\Projects\KNN_Test\KNN_Test\KNN_Test.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.36

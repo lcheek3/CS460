@@ -1,0 +1,13 @@
+﻿Build started 12/10/2015 2:47:08 AM.
+     1>Project "c:\Users\Lucas\documents\visual studio 2015\Projects\KNN_generator\KNN_generator\KNN_generator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Ic:\opencv\build\x64\vc12\..\..\include /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt KNN_Generator.cpp
+         KNN_Generator.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lucas\documents\visual studio 2015\Projects\KNN_generator\x64\Debug\KNN_generator.exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\opencv\build\x64\vc12\lib opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\lucas\documents\visual studio 2015\Projects\KNN_generator\x64\Debug\KNN_generator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lucas\documents\visual studio 2015\Projects\KNN_generator\x64\Debug\KNN_generator.lib" /MACHINE:X64 x64\Debug\KNN_Generator.obj
+         KNN_generator.vcxproj -> c:\users\lucas\documents\visual studio 2015\Projects\KNN_generator\x64\Debug\KNN_generator.exe
+     1>Done Building Project "c:\Users\Lucas\documents\visual studio 2015\Projects\KNN_generator\KNN_generator\KNN_generator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.49
